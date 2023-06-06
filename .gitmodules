@@ -1,0 +1,9 @@
+[submodule "STEP 13-14 Binary Trees and Binary Search Trees"]
+	path = STEP 13-14 Binary Trees and Binary Search Trees
+	url = https://github.com/xavierbeast68/TUF-Tree-Series
+[submodule "STEP 16 Dynamic Programming"]
+	path = STEP 16 Dynamic Programming
+	url = https://github.com/xavierbeast68/TUF-DP-Series
+[submodule "STEP 15 Graph Series"]
+	path = STEP 15 Graph Series
+	url = https://github.com/xavierbeast68/TUF-Graph-Series
