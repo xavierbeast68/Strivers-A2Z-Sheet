@@ -7,3 +7,6 @@
 [submodule "STEP 15 Graph Series"]
 	path = STEP 15 Graph Series
 	url = https://github.com/xavierbeast68/TUF-Graph-Series
+[submodule "STEP 4 Binary Search"]
+	path = STEP 4 Binary Search
+	url = https://github.com/xavierbeast68/TUF-Binary-Search-Series
